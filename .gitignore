@@ -1,0 +1,16 @@
+# Java class files
+*.class
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Backup or temp files
+*.log
+*.tmp
+
+# Output folders
+/out/
